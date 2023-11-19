@@ -9,7 +9,7 @@
 - <b>Password strength checker (Python)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Graphical User Interface Python (GUI)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Encrypter)](https://drive.google.com/file/d/1bd1xeqUd3oHr_zcU9f_aJ0hh8tc521XI/view?usp=drive_link)
 
 <h2>Networking Assignments </h2>
 
